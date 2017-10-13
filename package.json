@@ -7,7 +7,7 @@
     "node": ">=6"
   },
   "scripts": {
-    "start": "rm -rf dist && tsc && node ."
+    "start": "tsc && node ."
   },
   "repository": {
     "type": "git",
